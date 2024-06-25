@@ -90,7 +90,7 @@ add the middleware, configure the urls and point to the correct login page.
 Before you actually start using Django Keycloak make an educated choice between
 :ref:`local_user_setup` and :ref:`remote_user_setup`.
 
-Then walk through the :ref:`initial_setup` to found out how to link your
+Then walk through the :ref:`initial_setup` to find out how to link your
 Keycloak instance to your Django project.
 
 If you don't want to take all that effort please read about :ref:`example_project`
